@@ -7,7 +7,8 @@
 <div id="top-bar"> 
 <div style="float: left; margin-left: 22px;margin-top: -10px;"> 
 <a href="https://www.linkedin.com/in/ilknur-g%C3%BCzel/" title="site adi" alt="site adi"><img src="https://img.shields.io/badge/-İlknurGüzel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=://www.linkedin.com/in/İlknurGüzel/"> 
-
+  </div>
+  
 <div id="top-bar"> 
 <div style="float: right; margin-right: 22px;margin-top: -10px;"> 
 <a href="https://github.com/ilknrgzl" title="site adi" alt="site adi"><img src="https://img.shields.io/github/followers/İlknrgzl?label=follow&style=social"> 
