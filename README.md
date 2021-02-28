@@ -13,3 +13,14 @@
 <div style="float: right; margin-right: 22px;margin-top: -10px;"> 
 <a href="https://github.com/ilknrgzl" title="site adi" alt="site adi"><img src="https://img.shields.io/github/followers/İlknrgzl?label=follow&style=social"> 
 </div>
+
+```
+const  İlknur  = {   
+  pronouns :  " she " ,
+  code : [ C #, HTML , CSS , PHP , Python ],
+  tools: [ SQL ],
+  code : [  " C # " , " HTML " , " CSS " , " PHP " , " Python " ]
+  tools : [ " SQL "  ],
+  
+  aboutMe : {
+                        diller : " İngilizce " 
